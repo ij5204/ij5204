@@ -63,6 +63,21 @@ Research on hallucination + grounding
 <tr>
 <td width="50%">
 
+### 🤝 UC DoubtClear  
+AI-powered Q&A platform built collaboratively  
+
+**Highlights:**  
+• JWT authentication  
+• AI-generated answers  
+• Leaderboard + user system  
+
+**Stack:** React, FastAPI, PostgreSQL  
+
+<a href="https://github.com/SamarthP7704/uc_doubtclear">View Repository →</a>
+
+</td>
+<td width="50%">
+
 ### 🛡️ Cybersecurity Research  
 Endpoint detection + validation  
 
