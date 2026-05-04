@@ -34,7 +34,7 @@ focus: Building practical systems with real-world impact
 ```
 
 I’m a Computer Science student who enjoys building practical, polished systems that solve real problems.  
-I’m especially interested in AI-powered products, reliable retrieval systems, and full-stack architecture.
+II’m especially interested in AI-powered products, reliable retrieval systems, and building scalable full-stack applications.
 
 ---
 
@@ -45,16 +45,17 @@ I’m especially interested in AI-powered products, reliable retrieval systems, 
 <td width="50%">
 
 ### 🍽️ PrepPAL  
-AI-powered meal planning system  
+AI-powered meal planning system that generates meals based on pantry data  
 
 **Stack:** React, TypeScript, Supabase, Postgres, Claude API  
 
 <a href="https://github.com/ij5204/PrepPAL">View Repository →</a>
 
+</td>
 <td width="50%">
 
 ### 🤝 UC DoubtClear  
-AI-powered Q&A platform built collaboratively  
+AI-powered Q&A platform with real-time answer generation and user ranking built collaboratively  
 
 **Stack:** React, FastAPI, PostgreSQL  
 
