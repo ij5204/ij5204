@@ -82,8 +82,6 @@ Endpoint detection + validation
 
 ---
 
----
-
 ## ✨ Interactive Highlights
 
 <table>
