@@ -179,11 +179,6 @@ idea → rough prototype → break it → fix it → polish it → learn from it
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ij5204&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ij5204&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ij5204E&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
 ---
 
 ## 📈 Contribution Activity
