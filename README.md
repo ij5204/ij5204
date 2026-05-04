@@ -63,14 +63,6 @@ Research on hallucination + grounding
 <tr>
 <td width="50%">
 
-### 🧩 AI Memory Extension  
-Persistent AI chat memory system  
-
-**Stack:** Browser Extension, Next.js, AWS  
-
-</td>
-<td width="50%">
-
 ### 🛡️ Cybersecurity Research  
 Endpoint detection + validation  
 
