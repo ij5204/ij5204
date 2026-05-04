@@ -1,6 +1,6 @@
 <!-- ===== HERO BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:F472B6&height=240&section=header&text=Ishitaa%20Jain&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Building%20AI%20Systems%20%26%20Scalable%20Applications&descSize=16&descAlignY=52"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:F472B6&height=240&section=header&text=Ishitaa%20Jain&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Building%20AI%20Systems%20and%20Scalable%20Apps&descSize=16&descAlignY=52"/>
 </p>
 
 <!-- ===== TYPING ANIMATION ===== -->
