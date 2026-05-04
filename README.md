@@ -51,18 +51,6 @@ AI-powered meal planning system
 
 <a href="https://github.com/ij5204/PrepPAL">View Repository →</a>
 
-</td>
-<td width="50%">
-
-### 🧠 Adaptive RAG Reliability  
-Research on hallucination + grounding  
-
-**Focus:** RAG, Evaluation, EM/F1, Python  
-
-</td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🤝 UC DoubtClear  
@@ -71,14 +59,6 @@ AI-powered Q&A platform built collaboratively
 **Stack:** React, FastAPI, PostgreSQL  
 
 <a href="https://github.com/SamarthP7704/uc_doubtclear">View Repository →</a>
-
-</td>
-<td width="50%">
-
-### 🛡️ Cybersecurity Research  
-Endpoint detection + validation  
-
-**Focus:** OSQuery, MITRE ATT&CK  
 
 </td>
 </tr>
@@ -104,14 +84,6 @@ RAG reliability, hallucination detection, grounding, and evaluation pipelines.
 Designing useful AI-powered tools like PrepPAL for real-world daily problems.
 
 <img src="https://img.shields.io/badge/Building-PrepPAL-22D3EE?style=for-the-badge"/>
-
-</td>
-<td width="33%" align="center">
-
-### 🛡️ Security Mindset
-Endpoint detection, telemetry validation, OSQuery, and MITRE ATT&CK mapping.
-
-<img src="https://img.shields.io/badge/Security-Detection%20Engineering-F472B6?style=for-the-badge"/>
 
 </td>
 </tr>
