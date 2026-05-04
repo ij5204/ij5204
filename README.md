@@ -197,16 +197,6 @@ idea → rough prototype → break it → fix it → polish it → learn from it
 
 ---
 
-## 📌 Project Cards
-
-<p align="center">
-  <a href="https://github.com/ij5204/PrepPAL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ij5204&repo=PrepPAL&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
