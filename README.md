@@ -152,10 +152,47 @@ idea → rough prototype → break it → fix it → polish it → learn from it
   <img src="https://img.shields.io/badge/Polish-later-F472B6?style=for-the-badge"/>
 </p>
 
+---
+
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java,react,next,node,express,postgres,mongodb,supabase,aws,docker,git,github,vercel,figma" />
+  <b>Languages</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java&perline=5" />
+</p>
+
+<p align="center">
+  <b>Frontend</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,figma&perline=6" />
+</p>
+
+<p align="center">
+  <b>Backend & Databases</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=node,express,postgres,mongodb,supabase&perline=5" />
+</p>
+
+<p align="center">
+  <b>Cloud, DevOps & Tools</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel&perline=5" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Systems-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20Evaluation-22D3EE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-F472B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge"/>
 </p>
 
 ---
