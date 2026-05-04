@@ -82,6 +82,78 @@ Endpoint detection + validation
 
 ---
 
+---
+
+## ✨ Interactive Highlights
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🧠 AI Research
+RAG reliability, hallucination detection, grounding, and evaluation pipelines.
+
+<img src="https://img.shields.io/badge/Focus-RAG%20Reliability-7C3AED?style=for-the-badge"/>
+
+</td>
+<td width="33%" align="center">
+
+### 🍽️ Product Building
+Designing useful AI-powered tools like PrepPAL for real-world daily problems.
+
+<img src="https://img.shields.io/badge/Building-PrepPAL-22D3EE?style=for-the-badge"/>
+
+</td>
+<td width="33%" align="center">
+
+### 🛡️ Security Mindset
+Endpoint detection, telemetry validation, OSQuery, and MITRE ATT&CK mapping.
+
+<img src="https://img.shields.io/badge/Security-Detection%20Engineering-F472B6?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 What I Like Building
+
+```mermaid
+mindmap
+  root((My Builder Brain))
+    AI Systems
+      RAG Evaluation
+      Hallucination Detection
+      Prompt Workflows
+    Full Stack Products
+      Clean UI
+      Useful Backend Logic
+      Real User Problems
+    Security
+      Detection Rules
+      Telemetry
+      OSQuery
+    Product Thinking
+      MVPs
+      Iteration
+      Usability
+```
+
+---
+
+## 🧬 My Build Style
+
+```txt
+idea → rough prototype → break it → fix it → polish it → learn from it
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Build-fast-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Test-often-22D3EE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Polish-later-F472B6?style=for-the-badge"/>
+</p>
+
 ## 🛠 Tech Stack
 
 <p align="center">
