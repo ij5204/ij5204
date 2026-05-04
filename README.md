@@ -49,6 +49,8 @@ AI-powered meal planning system
 
 **Stack:** React, TypeScript, Supabase, Postgres, Claude API  
 
+<a href="https://github.com/ij5204/PrepPAL">View Repository →</a>
+
 </td>
 <td width="50%">
 
@@ -65,11 +67,6 @@ Research on hallucination + grounding
 
 ### 🤝 UC DoubtClear  
 AI-powered Q&A platform built collaboratively  
-
-**Highlights:**  
-• JWT authentication  
-• AI-generated answers  
-• Leaderboard + user system  
 
 **Stack:** React, FastAPI, PostgreSQL  
 
